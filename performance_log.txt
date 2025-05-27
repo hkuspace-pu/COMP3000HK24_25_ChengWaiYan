@@ -1,0 +1,2 @@
+Performance test: 1MB took 0.10s, 10MB took 1.05s 
+Added index, verification improved to 0.05s 

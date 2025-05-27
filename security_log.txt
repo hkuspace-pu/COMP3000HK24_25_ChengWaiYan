@@ -1,0 +1,4 @@
+Bandit scan: No high-severity issues found 
+SQL injection test: Database not corrupted, error handled correctly 
+SQL injection test: DROP TABLE not executed, database secure 
+SQL injection retest: DROP TABLE not executed, database secure, tested with dummy file due to Windows file dialog redirection to bing.com 
