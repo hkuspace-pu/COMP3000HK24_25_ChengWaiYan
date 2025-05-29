@@ -1,2 +1,2 @@
-Performance test: 1MB took 0.10s, 10MB took 1.05s 
-Added index, verification improved to 0.05s 
+Performance test: 1MB file took 0.10s, 10MB file took 1.05s 
+Added index idx_file_path, verification time improved to 0.05s for 1MB file 
