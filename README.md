@@ -3,6 +3,24 @@
 ## Overview
 The Secure File Integrity Checker (SFIC) is a tool developed for the COMP3000HK Project Portfolio (BSc (Hons) in Cyber Security) at HKU SPACE. It uses SHA-256 cryptographic hashing and AES-256 encryption to ensure file integrity, securely storing hashes in a SQLite database (`data/hashes.db`). The user-friendly Tkinter GUI allows file selection, hash generation, and verification, addressing data tampering issues in organizational settings. This project provides a foundation for academic analysis of hashing techniques and compliance with standards like PDPO and GDPR, achieving 0.6-second scans and 100% tamper detection [Li et al., 2025].
 
+## Directory Structure
+- **root/**:
+  - `README.md`: Project overview (this file).
+  - **src/**: Source code
+    - `file_integrity_checker.py`: Main script for file integrity checking.
+    - `file_integrity_checker.py.bak`: Backup of the main script.
+    - `query_db.py`: Script for querying the hash database.
+  - **docs/**: Documentation
+    - `COMP3000HK Computing Project - Report.md`: Project report in markdown.
+    - `COMP3000HK Computing Project - Report.pdf`: Project report in PDF format.
+  - **logs/**: Log files
+    - `integrity.log`, `performance_log.txt`, `security_log.txt`, `test_log.txt`, `usability_log.txt`: Logs for various operations.
+  - **data/**: Database files
+    - `hashes.db`: SQLite database storing file hashes.
+  - **tests/**: Test files
+    - `test.txt`, `test_1mb.txt`, `test_10mb.txt`: Test files for performance evaluation.
+  - `.gitignore`: Ignores temporary files, logs, and build artifacts.
+
 ## Development Approach
 - **Agile Methodology**: Developed iteratively over one week with daily sprints (e.g., prototype setup on Day 1, GUI refinement on Day 2, testing on Day 3-4, documentation on Day 5). Commits reflect progress (e.g., initial prototype, finalized readme).
 - **LESP Considerations**: 
