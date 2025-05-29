@@ -55,7 +55,7 @@ The Secure File Integrity Checker (SFIC) is a tool developed for the COMP3000HK 
 - Support directory scanning for bulk file verification.
 
 ## Video Demonstration
-Watch the project demo at [YouTube Link to be Added After Upload] for a walkthrough of the SFIC tool.
+Watch the project demo at https://youtu.be/a1wpfN-isnA for a walkthrough of the SFIC tool.
 
 ## Repository
 https://github.com/hkuspace-pu/COMP3000HK24_25_ChengWaiYan
