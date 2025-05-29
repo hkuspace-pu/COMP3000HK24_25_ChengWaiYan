@@ -90,13 +90,23 @@ Watch the project demo at https://youtu.be/a1wpfN-isnA for a walkthrough of the 
 https://github.com/hkuspace-pu/COMP3000HK24_25_ChengWaiYan
 
 ## Contributing
-We welcome contributions! To contribute:
-1. Fork the repository.
-2. Create a branch (`git checkout -b feature-name`).
-3. Commit changes (`git commit -m "Add feature"`).
-4. Push to your fork (`git push origin feature-name`).
-5. Open a pull request.
-Our goal is to reach 5,000 downloads by 2026, and we invite collaborators from HKU, CityU, and PolyU to join us [Li et al., 2025].
+We welcome contributions to the Secure File Integrity Checker (SFIC)! Follow these steps to contribute:
+
+1. **Fork the Repository**: Fork the repo on GitHub.
+2. **Clone Your Fork**: `git clone https://github.com/yourusername/COMP3000HK24_25_ChengWaiYan.git`
+3. **Create a Branch**: `git checkout -b feature-name`
+4. **Make Changes**: Implement your feature or bug fix.
+5. **Test**: Ensure your changes pass all tests in the `tests/` directory.
+6. **Commit Changes**: `git commit -m "Add feature"`
+7. **Push to Your Fork**: `git push origin feature-name`
+8. **Open a Pull Request**: Submit a PR to the main repository.
+
+### Guidelines
+- **Code Style**: Follow PEP 8 for Python code and use clear, descriptive commit messages.
+- **Issues**: Check the GitHub Issues tab for open tasks. For bugs, include steps to reproduce, expected behavior, and actual behavior.
+- **Contact**: For questions, reach out via GitHub Issues.
+
+Our goal is to reach 5,000 downloads by 2026, and we invite collaborators from HKU, CityU, and PolyU to join us in enhancing academic cybersecurity [Li et al., 2025]!
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
