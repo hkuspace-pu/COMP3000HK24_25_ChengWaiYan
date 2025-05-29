@@ -25,3 +25,7 @@ INFO:root:Hashing C:/Users/cyrus/COMP3000HK24_25/test.txt took 0.00 seconds
 INFO:root:Hash generated for C:/Users/cyrus/COMP3000HK24_25/test.txt
 INFO:root:Verification successful for C:/Users/cyrus/COMP3000HK24_25/test.txt: unchanged
 WARNING:root:Verification failed for C:/Users/cyrus/COMP3000HK24_25/test.txt: modified
+INFO:root:Hashing C:/Users/cyrus/COMP3000HK24_25/test_1mb.txt took 0.10 seconds
+INFO:root:Hash generated for C:/Users/cyrus/COMP3000HK24_25/test_1mb.txt
+INFO:root:Hashing C:/Users/cyrus/COMP3000HK24_25/test_10mb.txt took 1.05 seconds
+INFO:root:Hash generated for C:/Users/cyrus/COMP3000HK24_25/test_10mb.txt
