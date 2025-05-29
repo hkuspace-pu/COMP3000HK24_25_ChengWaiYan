@@ -1,1 +1,6 @@
   # On Windows
+"hashes.db" 
+"*.log" 
+"*.log.txt" 
+"test_1mb.txt" 
+"test_10mb.txt" 
