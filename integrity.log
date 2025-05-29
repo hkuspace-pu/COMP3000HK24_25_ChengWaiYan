@@ -1,0 +1,27 @@
+2025-05-22 16:41:11,725 - INFO - Hash generated for C:/Users/cyrus/COMP3000HK24_25/test.txt
+2025-05-22 16:41:22,246 - INFO - Verification successful for C:/Users/cyrus/COMP3000HK24_25/test.txt: unchanged
+2025-05-22 17:19:59,976 - ERROR - Verification failed for C:/Users/cyrus/COMP3000HK24_25/test.txt: 
+2025-05-22 17:20:32,201 - ERROR - Verification failed for C:/Users/cyrus/COMP3000HK24_25/test.txt: 
+2025-05-22 17:20:44,682 - INFO - Hash generated for C:/Users/cyrus/COMP3000HK24_25/test.txt
+2025-05-22 17:20:49,333 - INFO - Verification successful for C:/Users/cyrus/COMP3000HK24_25/test.txt: unchanged
+2025-05-22 17:21:03,342 - INFO - Hash generated for C:/Users/cyrus/COMP3000HK24_25/test.txt
+2025-05-22 17:21:21,053 - WARNING - Verification failed for C:/Users/cyrus/COMP3000HK24_25/test.txt: modified
+2025-05-26 14:36:35,469 - INFO - Hash generated for C:/Users/cyrus/COMP3000HK24_25/; DROP TABLE hashes; --
+2025-05-26 16:09:24,147 - INFO - Hash generated for C:/Users/cyrus/COMP3000HK24_25/; DROP TABLE hashes; --
+2025-05-26 16:09:31,163 - INFO - Verification successful for C:/Users/cyrus/COMP3000HK24_25/; DROP TABLE hashes; --: unchanged
+2025-05-26 16:09:38,590 - INFO - Hash generated for C:/Users/cyrus/COMP3000HK24_25/; DROP TABLE hashes; --
+INFO:root:Hashing C:/Users/cyrus/COMP3000HK24_25/test.txt took 0.00 seconds
+INFO:root:Hash generated for C:/Users/cyrus/COMP3000HK24_25/test.txt
+INFO:root:Verification successful for C:/Users/cyrus/COMP3000HK24_25/test.txt: unchanged
+INFO:root:Hashing C:/Users/cyrus/COMP3000HK24_25/; DROP TABLE hashes; -- took 0.00 seconds
+INFO:root:Hash generated for C:/Users/cyrus/COMP3000HK24_25/; DROP TABLE hashes; --
+INFO:root:Hashing C:/Users/cyrus/COMP3000HK24_25/test_1mb.txt took 0.00 seconds
+INFO:root:Hash generated for C:/Users/cyrus/COMP3000HK24_25/test_1mb.txt
+INFO:root:Hashing C:/Users/cyrus/COMP3000HK24_25/test_10mb.txt took 0.02 seconds
+INFO:root:Hash generated for C:/Users/cyrus/COMP3000HK24_25/test_10mb.txt
+INFO:root:Hashing C:/Users/cyrus/COMP3000HK24_25/test_1mb.txt took 0.00 seconds
+INFO:root:Hash generated for C:/Users/cyrus/COMP3000HK24_25/test_1mb.txt
+INFO:root:Hashing C:/Users/cyrus/COMP3000HK24_25/test.txt took 0.00 seconds
+INFO:root:Hash generated for C:/Users/cyrus/COMP3000HK24_25/test.txt
+INFO:root:Verification successful for C:/Users/cyrus/COMP3000HK24_25/test.txt: unchanged
+WARNING:root:Verification failed for C:/Users/cyrus/COMP3000HK24_25/test.txt: modified
